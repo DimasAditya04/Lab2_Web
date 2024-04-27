@@ -39,7 +39,8 @@ Hasil:
 
 # Tugas
 ![Code_k4QL8UveeF](https://github.com/steprtm/lab2web/assets/129705802/35797c5a-5da3-4716-b973-01370e6899d4)
-'''
+
+```
 <?php
 
 if (isset($_POST['submit'])) {
@@ -193,8 +194,8 @@ if (isset($_POST['submit'])) {
 </body>
 
 </html>
+```
 
-'''
 Hasil:
 
 ![Screenshot (185)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/3b295104-68e6-479f-b011-c3ef138d3041)
