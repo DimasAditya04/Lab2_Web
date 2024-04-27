@@ -13,10 +13,20 @@ Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 ## Tugas Pertama menggunakan PHP dasar
 
-![P web2 (1)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/dc1662f1-d44d-4d48-ae8c-9ad5bc560fec)
+# Belajar PHP Dasar
 
-g
-![css(2)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/87bc5a0d-6746-406e-87e3-002773b6b617)
-![css(1)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/4d567023-f9ec-46bd-897d-6242b2d79361)
+![hello](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/3740442d-9cec-4ce5-92ff-b1c06d3e6668)
+
+Hasil:
+
+![Screenshot (181)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/076914c8-9075-499d-bfdc-f9d255419006)
+
+# Menggunakan Variabel
+
+![Variabel](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/828036ba-6467-445e-827e-0f34b8fe6726)
+
+Hasil:
+
+![Screenshot (182)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/71d8cef2-73c2-4ffb-8891-315751efbe30)
 
 
