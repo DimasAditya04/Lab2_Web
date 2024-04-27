@@ -29,4 +29,14 @@ Hasil:
 
 ![Screenshot (182)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/71d8cef2-73c2-4ffb-8891-315751efbe30)
 
+# Form Input
+
+![form_input](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/a92608d7-5bef-4ee7-af49-0df4b4460728)
+
+Hasil:
+
+![Screenshot (184)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/f6e9b668-d805-42cd-a6eb-ed3caa8cf90f)
+
+
+
 
