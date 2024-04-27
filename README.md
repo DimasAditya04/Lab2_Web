@@ -38,7 +38,6 @@ Hasil:
 ![Screenshot (184)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/f6e9b668-d805-42cd-a6eb-ed3caa8cf90f)
 
 # Tugas
-![Code_k4QL8UveeF](https://github.com/steprtm/lab2web/assets/129705802/35797c5a-5da3-4716-b973-01370e6899d4)
 
 ```
 <?php
@@ -198,7 +197,8 @@ if (isset($_POST['submit'])) {
 
 Hasil:
 
-![Screenshot (185)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/3b295104-68e6-479f-b011-c3ef138d3041)
+![Screenshot (166)](https://github.com/DimasAditya04/Lab2_Web/assets/130146099/8108b639-fde6-4a75-9817-42e5fdfae4c6)
+
 
 ## Penjelasan
 1. Struktur HTML
